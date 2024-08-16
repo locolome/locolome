@@ -3,7 +3,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/354099/mysql.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
